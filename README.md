@@ -9,7 +9,7 @@
 
 -> Empower rural and semi-urban talent with access to global workspaces, fostering economic inclusion and digital literacy.
 
-Google Technologies Implemented:-
+- Google Technologies Implemented:-
 
 •	Gemini API
 •	Firebase
@@ -18,7 +18,7 @@ Google Technologies Implemented:-
 •	Google Classroom API
 •	Cloud Storage 
 
-Traits:-
+- Traits That Shape:-
 
 <> Gemini API:
    serves as the intelligent assistant, guiding users through onboarding, skill evaluation, and career navigation via natural language interactions.<><>
