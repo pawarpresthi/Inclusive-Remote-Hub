@@ -1,9 +1,12 @@
  <img width="1024" height="1024" alt="Calligraphy style " src="https://github.com/user-attachments/assets/7bb37b54-3784-4e91-aac3-07e74ffda60a" />
 
 -> Inclusive Remote Hub :- Trransformative digital platform designed to democratize access to remote work for marginalized and underserved communities.
+
 -> By leveraging cutting-edge AI and geospatial technologies, it intelligently matches individuals with remote job opportunities tailored to their skillsets, connectivity -    levels, and local infrastructure.
+
 -> The platform also offers personalized upskilling pathways and mentorship, fostering economic empowerment and digital inclusion at scale
    unlock global workspaces for local talent—no matter where they live.
+
 -> Empower rural and semi-urban talent with access to global workspaces, fostering economic inclusion and digital literacy.
 
 Google Technologies Implemented:-
@@ -15,7 +18,7 @@ Google Technologies Implemented:-
 •	Google Classroom API
 •	Cloud Storage 
 
-<img width="1024" height="1024" alt="traits " src="https://github.com/user-attachments/assets/ab6219e2-8c91-4f6e-a6b5-2eb0518db649" />
+Traits:-
 
 <> Gemini API:
    serves as the intelligent assistant, guiding users through onboarding, skill evaluation, and career navigation via natural language interactions.<><>
