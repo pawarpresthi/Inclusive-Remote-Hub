@@ -66,14 +66,15 @@ OVER_VIEW:-
 - Node.js 18+ (for frontend prototype)
 
 inclusive-remote-hub/
-│── backend/        # Java Spring Boot services
-│── frontend/       # React.js prototype UI
-│── docs/           # Documentation and design notes
-│── tests/          # Unit and integration tests
-│── README.md       # Project overview
 
- # Clone the repository
-git clone https://github.com/Presthi Pawar/06/inclusive-remote-hub.git
+│── backend/        # Java Spring Boot services
+  │── frontend/       # React.js prototype UI
+    │── docs/           # Documentation and design notes
+       │── tests/          # Unit and integration tests
+         │── README.md       # Project overview
+
+# Clone the repository
+git clone https:///github.com/pawarpresthi/Job-Yatra
 
 # Navigate to project directory
 cd inclusive-remote-hub
@@ -87,9 +88,11 @@ cd frontend
 npm install
 
 📜 License
+
 This project is licensed under the MIT License – free to use, modify, and distribute with attribution.
 
 🙏 Acknowledgments
+
 - Open-source libraries powering accessibility features.
 - Early testers who provided feedback on inclusivity and usability.
 - Community members advocating for diverse and remote-friendly collaboration.
