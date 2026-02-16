@@ -20,27 +20,48 @@
 
 **Traits That Shape**:-
 
-<> Gemini API:
+<> **Gemini API**:
 serves as the intelligent assistant, guiding users through onboarding, skill evaluation, and career navigation via natural language interactions.
 
-<> Firebase ensures secure authentication, real-time data synchronization, and scalable backend infrastructure.
+<> **Firebase** ensures secure authentication, real-time data synchronization, and scalable backend infrastructure.
 
-<> Vertex AI:
+<> **Vertex AI**:
 powers predictive analytics to assess job compatibility and recommend personalized learning paths.
 
-<> Google Maps API: 
+<> **Google Maps API**: 
 evaluates local infrastructure and connectivity to determine feasible remote work setups.
 
-<> Google Classroom API: 
+<> **Google Classroom API**: 
 integrates curated learning modules to bridge skill gaps and prepare users for remote roles.
 
-<> Google Cloud Storage: 
+<> **Google Cloud Storage**: 
 securely stores resumes, training materials, and project files, ensuring seamless access and collaboration across devices.
 
-<> Google Meet: 
+<> **Google Meet**: 
 enables virtual mentorship sessions, team collaborations, and inclusive interviews, breaking geographical barriers and fostering human connection.
 
-OVER_VIEW:-
+
+🛠️ **Tech Stack**
+
+- Frontend: Android (Java/Kotlin)
+- Backend: Firebase / REST APIs
+- Database: Firebase Firestore / SQLite (for offline caching)
+- Authentication: Firebase Auth (Email, Google Sign-In)
+- UI/UX: Material Design principles
+
+📂 **Project Structure**
+
+JobYatra/
+│── app/               
+│   ├── activities/     
+│   ├── adapters/       
+│   ├── models/         
+│   ├── utils/          
+│   └── res/           
+│── docs/               
+│── README.md  
+
+ 📱 **Job Yatra**
 
 ![WhatsApp Image 2026-01-11 at 07 32 20 (3)](https://github.com/user-attachments/assets/3bb30b9f-f71f-4103-abb8-92c54ef9cd7c)
 
@@ -58,20 +79,22 @@ OVER_VIEW:-
 
 ![WhatsApp Image 2026-01-11 at 07 32 21 (1)](https://github.com/user-attachments/assets/c5f7261e-0342-4f6f-959d-32a4e5948e99)
 
-🛠 Installation:-
+🤝 **Contributing**
+
+   We welcome contributions!
+
+- Fork the repo
+- Create a new branch (feature/your-feature)
+- Commit changes
+- Submit a pull request
+
+🛠 **Installation**:-
+
    Prerequisites
 - IDE(Android Stuidio)
 - Java 17+
 - MySQL 8.0+
 - Node.js 18+ (for frontend prototype)
-
-inclusive-remote-hub/
-
-│── backend/        # Java Spring Boot services
-  │── frontend/       # React.js prototype UI
-    │── docs/           # Documentation and design notes
-       │── tests/          # Unit and integration tests
-         │── README.md       # Project overview
 
 # Clone the repository
 git clone https://github.com/pawarpresthi/Job-Yatra-/blob/main/README.md
@@ -87,15 +110,15 @@ mvn clean install
 cd frontend
 npm install
 
-📜 License
+📜 **License**
 
 This project is licensed under the MIT License – free to use, modify, and distribute with attribution.
 
-🙏 Acknowledgments
+🙏 **Acknowledgments**
 
-- Open-source libraries powering accessibility features.
-- Early testers who provided feedback on inclusivity and usability.
-- Community members advocating for diverse and remote-friendly collaboration.
+Shatakshi Verma - for constant support and guidance throughout.
+
+
 
 
 
