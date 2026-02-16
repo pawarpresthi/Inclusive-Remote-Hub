@@ -9,7 +9,7 @@
 
 -> Empower rural and semi-urban talent with access to global workspaces, fostering economic inclusion and digital literacy.
 
-Google Technologies Implemented:-
+**Google Technologies Implemented**:-
 
 •	Gemini API
 •	Firebase
@@ -18,27 +18,27 @@ Google Technologies Implemented:-
 •	Google Classroom API
 •	Cloud Storage 
 
-Traits That Shape:-
+**Traits That Shape**:-
 
 <> Gemini API:
-   serves as the intelligent assistant, guiding users through onboarding, skill evaluation, and career navigation via natural language interactions.
+serves as the intelligent assistant, guiding users through onboarding, skill evaluation, and career navigation via natural language interactions.
 
 <> Firebase ensures secure authentication, real-time data synchronization, and scalable backend infrastructure.
 
 <> Vertex AI:
-   powers predictive analytics to assess job compatibility and recommend personalized learning paths.
+powers predictive analytics to assess job compatibility and recommend personalized learning paths.
 
 <> Google Maps API: 
-   evaluates local infrastructure and connectivity to determine feasible remote work setups.
+evaluates local infrastructure and connectivity to determine feasible remote work setups.
 
 <> Google Classroom API: 
-   integrates curated learning modules to bridge skill gaps and prepare users for remote roles.
+integrates curated learning modules to bridge skill gaps and prepare users for remote roles.
 
 <> Google Cloud Storage: 
-   securely stores resumes, training materials, and project files, ensuring seamless access and collaboration across devices.
+securely stores resumes, training materials, and project files, ensuring seamless access and collaboration across devices.
 
 <> Google Meet: 
-   enables virtual mentorship sessions, team collaborations, and inclusive interviews, breaking geographical barriers and fostering human connection.
+enables virtual mentorship sessions, team collaborations, and inclusive interviews, breaking geographical barriers and fostering human connection.
 
 OVER_VIEW:-
 
