@@ -94,7 +94,7 @@ JobYatra/
 - IDE(Android Stuidio)
 - Java 17+
 - MySQL 8.0+
-- Node.js 18+ (for frontend prototype)
+- Node.js 18+ 
 
 # Clone the repository
 git clone https://github.com/pawarpresthi/Job-Yatra-/blob/main/README.md
