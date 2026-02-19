@@ -97,7 +97,7 @@ JobYatra/
 - Node.js 18+ 
 
 # Clone the repository
-git clone https://github.com/pawarpresthi/Job-Yatra-/blob/main/README.md
+git clone https://github.com/pawarpresthi/Inclusive-Remote-Hub.git
 
 # Navigate to project directory
 cd inclusive-remote-hub
